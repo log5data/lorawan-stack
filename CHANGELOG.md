@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Packet Broker Agent to act as Forwarder and Home Network. See `pba` configuration section.
+
 ### Changed
 
 ### Deprecated
